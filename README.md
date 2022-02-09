@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **rooftop-pixel-classification**
 
-- 📄 Know about my experiences [https://github.com/sukruburakcetin/my-CV/blob/master/CV_Sukru_Burak_Cetin.pdf](https://github.com/sukruburakcetin/my-CV/blob/master/CV_Sukru_Burak_Cetin.pdf)
+- 📄 Know about my experiences:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
