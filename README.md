@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruburakcetin&label=Profile%20views&color=0e75b6&style=flat" alt="sukruburakcetin" /> </p>
 
-- 🔭 I’m currently working on **rooftop-pixel-classification**
+- 🔭 I’m currently working on **object detection on aerial images.**
 
-- 📄 Know about my experiences:
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Know about my experiences and connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sukru-burak-cetin-741268118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukru-burak-cetin-741268118" height="30" width="40" /></a>
 </p>
